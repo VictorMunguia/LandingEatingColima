@@ -1,0 +1,35 @@
+.divFondoColor{
+  background:#FA921C;
+}
+
+.menu{
+  background: #ff5330 !important;
+}
+
+.DivPrueba{
+  background-color: #343786
+}
+
+.divImagenFondo{
+  background-image: url(content/MexicanFood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 10px 2px 5px black;
+}
+
+.imagenSombrero{
+  background-image: url(content/Sombrero.png);
+  height: 270px;
+  width: 270px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  margin-left: -55px;
+  box-shadow: 10px 5px 20px black;
+}
+
+.item{
+  color: rgb(255, 255, 255) !important;
+  font:21px "Jua" !important;
+
+}
